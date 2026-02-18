@@ -511,5 +511,3 @@ NEXT FRAMES: Normal movement restored
 3️⃣ **User Input**: Key presses toggle modules or open GUI
 4️⃣ **Module Lifecycle**: onEnable → onUpdate/onRender loop → onDisable
 5️⃣ **GUI Logic**: Click button → module.toggle() → onEnable/Disable called
-
-That's the complete flow!
